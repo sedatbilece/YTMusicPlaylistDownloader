@@ -12,6 +12,24 @@ A Windows desktop application for downloading YouTube / YouTube Music playlists 
 
 > **On first use**, the app will offer to download **yt-dlp** and **ffmpeg** (~90 MB total). These are saved next to the executable and only downloaded once.
 
+## Screenshots
+
+**1. Initial screen — paste your playlist URL and choose an output folder**
+
+![Initial screen](Docs/ss1.png)
+
+**2. After clicking Fetch Songs — all tracks listed and selected**
+
+![Fetch result](Docs/ss2.png)
+
+**3. Download in progress — progress bar and current track shown**
+
+![Downloading](Docs/ss3.png)
+
+**4. Downloaded MP3 files in the output folder**
+
+![Output folder](Docs/ss4.png)
+
 ## Usage
 
 1. Paste a YouTube or YouTube Music playlist URL into the **Playlist URL** field
